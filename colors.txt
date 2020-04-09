@@ -1,0 +1,9 @@
+black
+pink
+blue
+brown
+//git remote set-url origin https://github.com/Halis-Can/OnlineNewGitPrictice2019.git
+// and The most similar command is
+               remote!!
+red
+

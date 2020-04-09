@@ -1,12 +1,40 @@
 Toyota Corolla
-Audi R8
 Tesla
-BMW 3
-BMW X6
+KIA
+MAZDA
+Honda civic
+Mercedes
+Lincoln
+Mazda
 Mercedes S500
-Kia Optima
-Lexus GX470
-Kia Optima
-Honda Civic
-Subaru WRX STI
+Subaru WRX.
 Range Rover Velar
+
+//git add .
+//git commit -m "newone"
+//git push
+//git pull
+
+git stash ………...ile askiya aldik
+git stash list….... ile id kontrolu yaptik askiya aldigimiz kodu
+git pull…………….. ile GIthubdan degisiklikleri getirdik
+git stash pop stash@{0}........ ile askidaki kodu  geri cagirdik
+conflict olustu (GitHub’dan gelen oldu biz askidakini indirdik)
+git> right click=> resolve conflict> merge ile conflict cozuldu
+========
+git add .
+git commit -m “fixed conflict”
+git push
+ile GitHub a bizim local repository den
+git commit -a -m "added a new car"
+git log --graph --oneline
+new line
+=======
+git branch
+ dev
+* master
+>git checkout dev (Switched to branch 'dev'==>see bottem)
+* dev
+  master
+  master
+
